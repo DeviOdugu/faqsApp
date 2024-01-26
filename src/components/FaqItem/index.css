@@ -1,0 +1,26 @@
+/* Write your code here. */
+.card {
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: 2px #d7dae6 solid;
+  padding: 10px;
+  list-style-type: none;
+  margin: 10px;
+}
+.a {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Roboto';
+}
+.question {
+  font-size: 13px;
+  color: #52606d;
+}
+.image {
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.answer {
+  color: #9aa5b1;
+  font-size: 10px;
+}
